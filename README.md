@@ -1,7 +1,6 @@
 # About Me
 - 👋 Hi, I'm @Ramtin-Ebrahimi.
 - 👀 I am interested in back-end and front-end programming in the web domain.
-- 🌱 I am learning front end.
 - 💞️ I am looking for cooperation in the field of back-end with Python, Django and front-end frameworks.
 - 📫 how to contact me ramtinpypc@gmail.com.
 - 😄 Pronouns: ...
